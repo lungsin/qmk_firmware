@@ -40,7 +40,7 @@ static void print_status_narrow(void) {
             oled_write_P(PSTR("Sym\n"), false);
             break;
         case 3:
-            oled_write_P(PSTR("Nav\n"), false);
+            oled_write_P(PSTR("Ext\n"), false);
             break;
         case 4:
             oled_write_P(PSTR("Other"), false);
