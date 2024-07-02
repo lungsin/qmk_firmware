@@ -43,7 +43,10 @@ static void print_status_narrow(void) {
             oled_write_P(PSTR("Ext\n"), false);
             break;
         case 4:
-            oled_write_P(PSTR("Other"), false);
+            oled_write_P(PSTR("Num"), false);
+            break;
+        case 5:
+            oled_write_P(PSTR("Fn"), false);
             break;
         default:
             oled_write_ln_P(PSTR("Undef"), false);
