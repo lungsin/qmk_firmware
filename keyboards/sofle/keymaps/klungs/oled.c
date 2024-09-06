@@ -22,7 +22,7 @@ static void print_status_narrow(void) {
             oled_write_ln_P(PSTR("Clmk\n"), false);
             break;
         case 1: // _COLEMAK
-            oled_write_ln_P(PSTR("Qwrt\n"), false);
+            oled_write_ln_P(PSTR("Klng\n"), false);
             break;
         default:
             oled_write_P(PSTR("Mod"), false);
