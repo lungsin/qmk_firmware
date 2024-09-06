@@ -3,7 +3,7 @@
   "notes": "My awesome keymap",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "sofle/rev1",
-  "keymap": "sofle_rev1_sofle_rev1_sofle_rev1_sofle_klungs_v3",
+  "keymap": "sofle_rev1_sofle_rev1_sofle_rev1_sofle_rev1_sofle_rev1_sofle_klungs_v3",
   "layout": "LAYOUT",
   "layers": [
     [
@@ -104,7 +104,7 @@
       "KC_E",
       "KC_A",
       "KC_I",
-      "KC_TRNS",
+      "KC_SLSH",
       "KC_TRNS",
       "KC_V",
       "KC_Z",
@@ -115,7 +115,7 @@
       "KC_NO",
       "KC_COMM",
       "KC_H",
-      "KC_O",
+      "KC_QUOT",
       "KC_Q",
       "KC_SCLN",
       "KC_TRNS",
